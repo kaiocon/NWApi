@@ -1,0 +1,14 @@
+C:\Users\Kai\source\repos\B00316022\NWApi\bin\Debug\netcoreapp2.1\NWApi.deps.json
+C:\Users\Kai\source\repos\B00316022\NWApi\bin\Debug\netcoreapp2.1\NWApi.runtimeconfig.json
+C:\Users\Kai\source\repos\B00316022\NWApi\bin\Debug\netcoreapp2.1\NWApi.runtimeconfig.dev.json
+C:\Users\Kai\source\repos\B00316022\NWApi\bin\Debug\netcoreapp2.1\NWApi.dll
+C:\Users\Kai\source\repos\B00316022\NWApi\bin\Debug\netcoreapp2.1\NWApi.pdb
+C:\Users\Kai\source\repos\B00316022\NWApi\obj\Debug\netcoreapp2.1\NWApi.csprojAssemblyReference.cache
+C:\Users\Kai\source\repos\B00316022\NWApi\obj\Debug\netcoreapp2.1\NWApi.csproj.CoreCompileInputs.cache
+C:\Users\Kai\source\repos\B00316022\NWApi\obj\Debug\netcoreapp2.1\NWApi.RazorAssemblyInfo.cache
+C:\Users\Kai\source\repos\B00316022\NWApi\obj\Debug\netcoreapp2.1\NWApi.RazorAssemblyInfo.cs
+C:\Users\Kai\source\repos\B00316022\NWApi\obj\Debug\netcoreapp2.1\NWApi.AssemblyInfoInputs.cache
+C:\Users\Kai\source\repos\B00316022\NWApi\obj\Debug\netcoreapp2.1\NWApi.AssemblyInfo.cs
+C:\Users\Kai\source\repos\B00316022\NWApi\obj\Debug\netcoreapp2.1\NWApi.RazorTargetAssemblyInfo.cache
+C:\Users\Kai\source\repos\B00316022\NWApi\obj\Debug\netcoreapp2.1\NWApi.dll
+C:\Users\Kai\source\repos\B00316022\NWApi\obj\Debug\netcoreapp2.1\NWApi.pdb
